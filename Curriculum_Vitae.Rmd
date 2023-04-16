@@ -1,0 +1,183 @@
+---
+title: "Curriculum Vitae : Bastien Baranoff"
+author: Bastien Baranoff
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: true
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> bastienbaranoff@gmail.com
+- <i class="fa fa-github"></i> [github.com/bbaranoff](https://github.com/bbaranoff)
+- <i class="fa fa-linkedin"></i> [linkedin.com/in/baranoff](https://linkedin.com/in/baranoff)
+- <i class="fa fa-youtube"></i> [youtube.com/@b-as](https://youtube.com/@b-as)
+- <i class="fa fa-rtfd"></i> [pl4y.store](https://pl4y.store)
+
+- <i class="fa fa-phone"></i> +33 (0)656678074
+
+- Pour plus d'information contacter moi par email
+
+Compétences {#skills}
+--------------------------------------------------------------------------------
+
+- Open Source Intelligence, Investigation, Test d'intrusion, divers Cybersécurité...
+- Mise en place de PAN (Personnal Area Network) en Télécom (GSM->LTE)
+- Test d'intrusion en Télécom
+- Objets connectés : LoRa(WAN)
+- Linux, Bash, C/C++, Python, Git, Rstudio
+- Intelligence Artificielle, Réseaux de Neurones (Entrainement, Validation)
+- Electronique Embarquée (ARM64: Raspberry Pi, OrangePi, RockPi... FPGA, Risc-V ...)
+- Réseaux sociaux (Communication)
+
+
+Main
+================================================================================
+
+Bastien Baranoff {#title}
+--------------------------------------------------------------------------------
+
+### Candidature en Doctorat d'informatique
+
+- Je souhaite être docteur depuis que je suis à la faculté.
+- Je parle de télécommunications avec des gens impressionnants (comme Sylvain Munaut
+cité dans Libération, Harald Welte, David Rupprecht, . . . )
+- J'ai été la première personne à publier le code source présenté au HITB (Hack In The Box 2016) "LTE Redirection Attack" par Lin Huang
+- Ma chaîne Youtube atteint plus d'un millier d'abonnés.
+
+
+Formation {data-icon=graduation-cap }
+--------------------------------------------------------------------------------
+
+### Université de Perpignan Via Domitia
+
+Licence en Electronique Electrotechnique Automatique
+
+Perpignan, France
+
+2006
+
+
+### Université de Perpignan Via Domitia
+
+Master en Electronique Automatique Informatique
+
+Perpignan, France
+
+2013
+
+
+### Université de Perpignan Via Domitia
+
+Licence en Administration Systèmes et Réseaux
+
+Perpignan, France
+
+2021
+
+Experience en Recherche {data-icon=laptop }
+--------------------------------------------------------------------------------
+
+### Consultant pour Tata Advanced Systems Limited
+
+
+Recherche d'un moyen pour localiser les téléphones par Radio-Fréquence (Officiellement pour retrouver les victimes de catastrophes naturelles)
+Comme indiqué on cherchait le moyen de localiser les téléphones à porté radio, sans interaction utilisateur.
+
+
+Inde, Distanciel
+2019
+
+
+### Université de Perpignan Via Domitia, PROMES
+
+Traqueur GPS via LoRa(WAN)
+
+Perpignan, France
+
+2021
+
+
+Experience Professionnelle {data-icon=suitcase }
+--------------------------------------------------------------------------------
+
+### Electricien (Salabert)
+
+
+- Eletricité du bâtiment : réseau électrique de maison 
+
+Céret, France
+
+2009
+
+### Electricien (Gomelec)
+
+
+- Eletricité du bâtiment : réseau électrique de maison 
+- Mise en place de systèmes dedétection d'intrusions, dans les Postes et Banques
+- Dépannage
+- Electricité, électrotechnique TPE, PME (ex : Onduleurs dans des Mac Donalds)
+
+Le Boulou, France
+
+2009
+
+### Université de Perpignan Via Domitia, PROMES
+
+
+
+Electronicien
+- Analyse de la réaction d'un wafer face à un échelon de température.
+- Collecte des données renvoyés par ce wafer (Réaction du courant...)
+
+
+Perpignan, France
+
+2021
+
+Experience en enseignement {data-icon=chalkboard-teacher }
+--------------------------------------------------------------------------------
+
+### Enseignant secondaire
+
+Lycée de Céret, STI2D (Science et Technologies de l'Information et dévelopement durable)
+
+Céret, France
+
+2017
+
+### Université de Perpignan Via Domitia
+
+
+Intervention pour expliquer à quoi sert et comment est utilisé le LoRa(WAN)
+Cours donnés à ma précédente (2021) Licence Admisys
+
+
+Perpignan, France
+
+2023
+
+
+Publications et citations {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Mise en place automatisé d'un réseau GSM avec une LimeSDR sur raspberry via un script bash
+
+[MyriadRF - 2ème réference](https://myriadrf.org/news/ota-openbsc-setup-scripts-80msps-from-a-limesdr-mini-a-satellite-hunt-and-more/)
+
+Par Gareth Halfacree le 29 Juin 2021
+
+### Preuve de concept de l'établissement d'un réseau LTE via LimeSDR
+
+[MyriadRF - 1ère réference](https://myriadrf.org/news/ota-limenet-micro-openairinterface-osmocon-2018-videos-and-more/)
+
+Par Gareth Halfacree le 26 Octobre 2018
+
